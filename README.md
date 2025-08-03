@@ -1,7 +1,10 @@
 # -Muhammad-Maviya-
 <table align="center">
- <h1 align="center">👋Hi there I'm Muhammad</h1>
-<h3 align="center">🚀 Currently learning **MERN Full Stack Development** 🎨 Exploring **Graphic Design with AI** tools 🛠️ Tools I work with: **Figma**, **Canva**, **CapCut** 💻 Passionate about building responsive websites and creative digital content 📚 Always improving and experimenting with new tech</h3>
+ <h1 align="center">👋Hi there I'm Muhammad</h1><br>
+<h3 align="center">🚀 Currently learning **MERN Full Stack Development <br> 🎨 Exploring **Graphic Design with AI** tools 🛠️ <br>
+ Tools I work with: **Figma**, **Canva**, **CapCut** <br> 
+ 💻 Passionate about building responsive websites and creative digital content <br> 
+ 📚 Always improving and experimenting with new tech</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
